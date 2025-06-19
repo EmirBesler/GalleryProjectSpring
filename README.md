@@ -1,5 +1,10 @@
 # Spring Boot API for simple gallery Project
-there is no Exception handling yet.
+
+
+# What is Missing
+- Weak exception handling
+- No refresh token yet
+
 
 
 # Table of contents
